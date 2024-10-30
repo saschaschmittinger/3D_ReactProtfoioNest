@@ -46,15 +46,15 @@ const services = [
     icon: web,
   },
   {
-    title: "Lead/Termin Generierung",
+    title: "E-Commerce",
     icon: mobile,
   },
   {
-    title: "Social Media Marketing",
+    title: "Conversion-Rate Optimierung",
     icon: backend,
   },
   {
-    title: "Sales Coaching",
+    title: "Social Media Marketing",
     icon: creator,
   },
 ];

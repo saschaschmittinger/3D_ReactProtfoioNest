@@ -35,8 +35,12 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction </p>
-        <h2 className={styles.sectionHeadText}>Overview</h2>
+        <h2 className={styles.sectionHeadText}>
+          Webseiten die aus Ihren Besuchern <br /> zahlende Kunden macht
+        </h2>
+        <p className={styles.sectionSubText}>
+          <span className="text-[#915eff]"> Wie machen wir das? </span>
+        </p>
       </motion.div>
 
       <motion.p

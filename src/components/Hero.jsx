@@ -18,7 +18,7 @@ const Hero = () => {
             It`s good to be <span className="text-[#915eff]">Diffrend</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Webseiten die aus Besuchern zahlende Kunden macht !
+            SEO bringt Unternehmern KEIN Geld. Kaufwillige Interessenten schon !
           </p>
         </div>
       </div>
