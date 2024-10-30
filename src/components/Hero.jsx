@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-secondary`}>
-            To be <span className="text-[#915eff]">Diffrend</span>
+            It`s good to be <span className="text-[#915eff]">Diffrend</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Webseiten die aus Besuchern zahlende Kunden macht !
