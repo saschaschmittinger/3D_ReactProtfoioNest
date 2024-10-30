@@ -28,7 +28,7 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "Über uns",
   },
   {
     id: "work",
@@ -36,25 +36,25 @@ export const navLinks = [
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Kontakt",
   },
 ];
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web Entwicklung",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Lead/Termin Generierung",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Social Media Marketing",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Sales Coaching",
     icon: creator,
   },
 ];
