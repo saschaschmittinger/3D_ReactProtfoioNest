@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://schmittinger-react-landingpage.vercel.app",
+    source_code_link: "https://schmittinger-react-landingpage.netlify.app/",
   },
   {
     name: "Trip Guide",
