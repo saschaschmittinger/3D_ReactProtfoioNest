@@ -36,10 +36,12 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <h2 className={styles.sectionHeadText}>
-          Webseiten die aus Ihren Besuchern <br /> zahlende Kunden macht
+          Webseiten die aus Ihren Besuchern <br /> zahlende Kunden macht!
         </h2>
         <p className={styles.sectionSubText}>
-          <span className="text-[#915eff]"> Wie machen wir das? </span>
+          <span className="text-[#915eff]">
+            Wer sind wir? Und was machen wir genau?
+          </span>
         </p>
       </motion.div>
 
