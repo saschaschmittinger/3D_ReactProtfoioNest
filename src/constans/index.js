@@ -98,15 +98,20 @@ const experiences = [
     company_name: "",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Zoom Call wischen 30 - 60 Min.",
-    points: ["", "", "", ""],
+    date: "Erster Schritt",
+    points: [
+      "Zielvereinbarung: Klare Festlegung der Hauptziele der Webanwendung und Identifikation der Zielgruppen, um Funktionen und Inhalte optimal zu gestalten.",
+      "Anforderungsanalyse: Besprechung der benötigten Funktionen und technischen Anforderungen, um  eine qualitativ hochwertige Lead Gernerierung sicherzustellen",
+      "Zeitplan: Festlegung eines realistischen Zeitplans, um eine effiziente und wirtschaftliche Umsetzung zu gewährleisten.",
+      "Kommunikations- und Feedbackstruktur: Vereinbarung regelmäßiger Meetings, Feedbackzyklen und Kommunikationskanäle, um den Fortschritt transparent zu halten und Änderungswünsche frühzeitig zu erkennen",
+    ],
   },
   {
     title: "Die Entwicklung",
     company_name: "",
     icon: tesla,
     iconBg: "#383E56",
-    date: " zwischen 7 - 14 Tage",
+    date: " Zweiter Schritt",
     points: [
       "Entwicklung der Webanwendung mit React.js und verwandten Technologien",
       "Zusammenarbeit mit funktionsübergreifenden Teams, einschließlich Designern, Produktmanagern und anderen Entwicklern, um für Sie das bestmögliche Ergebniss zu erreichen.",
@@ -119,7 +124,7 @@ const experiences = [
     company_name: "",
     icon: shopify,
     iconBg: "#383E56",
-    date: " zwischen 7 - 14 Tage",
+    date: " Finale Beprechung vor dem Hosting",
     points: ["", "", "", ""],
   },
   {
