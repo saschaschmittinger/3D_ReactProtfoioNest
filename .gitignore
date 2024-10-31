@@ -65,3 +65,5 @@ packages/react-devtools-timeline/dist
 
 *.txt
 *.md
+*README.md
+README.md

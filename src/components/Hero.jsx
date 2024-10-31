@@ -18,8 +18,7 @@ const Hero = () => {
             It`s good to be <span className="text-[#915eff]">Diffrend</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            SEO bringt Unternehmern KEINEN Umsatz! Ein voller Terminkalender
-            schon !
+            SEO bringt KEINEN Umsatz! Ein voller Terminkalender schon !
           </p>
         </div>
       </div>
