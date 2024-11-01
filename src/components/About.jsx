@@ -39,9 +39,7 @@ const About = () => {
           Eine Webseite die aus Ihren Besuchern <br /> zahlende Kunden macht!
         </h2>
         <p className={styles.sectionSubText}>
-          <span className="text-[#915eff]">
-            Wer sind wir? Und was machen wir genau?
-          </span>
+          <span className="text-[#915eff]">Wie wir das machen?</span>
         </p>
       </motion.div>
 
@@ -49,12 +47,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore facere
-        dolore quo architecto reiciendis harum quas dolorum, pariatur rerum
-        impedit, quasi distinctio magni! Enim labore optio doloribus eveniet.
-        Temporibus quae ex quam nobis a deserunt voluptate veritatis sequi
-        possimus ratione consectetur facilis odit harum aut, quisquam
-        necessitatibus cupiditate laborum. Alias?
+        Mit React, Three.js und Künstlicher Intelligenz erstellen wir Webseiten,
+        die Besucher in zahlende Kunden verwandelt. React sorgt für eine
+        schnelle, interaktive Nutzeroberfläche. Three.js fügt beeindruckende
+        3D-Elemente hinzu, um die Aufmerksamkeit der User zu gewinnen.
+        Künstliche Intelligenz, personalisiert Inhalte intelligent, indem es
+        Persönliche Beratungsgespräche, relevante Produkte und Informationen
+        vorschlägt,die auf Nutzerbedürfnisse abgestimmt sind, ähnlich wie beim
+        Telefonat. Das sorgt für einen vollen Terminkalender und mehr Umsatz.
+        UND DAS GARANTIERT!!!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
