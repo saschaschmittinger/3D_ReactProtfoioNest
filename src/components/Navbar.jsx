@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constans";
 import { logo, menu, close } from "../assets";
-import { nav } from "framer-motion/client";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -21,10 +20,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt="logo" className="w-6 h-6 object-contain" />
+          <img src="logo.ico" alt="logo" className="w-6 h-6 object-contain" />
           <p className="text-[#915eff] text-[18px] font-bold cursor-pointer flex">
-            SSC &nbsp;
-            <span className="block  text-white">Consult</span>
+            Sascha &nbsp;
+            <span className="block  text-white">Schmittinger</span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10">

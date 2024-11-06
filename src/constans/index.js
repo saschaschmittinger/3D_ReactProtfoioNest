@@ -125,7 +125,12 @@ const experiences = [
     icon: shopify,
     iconBg: "#383E56",
     date: " Finale Beprechung vor dem Hosting",
-    points: ["", "", "", ""],
+    points: [
+      "Zuverlässigkeit und Uptime: Sicherstellen, dass die Website auf einem Server mit hoher Verfügbarkeit in Deutschland gehostet wird, um minimale Ausfallzeiten und eine durchgängig erreichbare Website zu gewährleisten",
+      "Sicherheit: Einsatz von SSL-Zertifikaten, regelmäßigen Backups und Schutzmechanismen wie Firewalls und DDoS-Abwehr, um die Daten des Kunden zu schützen",
+      "Skalierbarkeit: Möglichkeit zur Erweiterung der Serverkapazitäten, um steigenden Traffic oder neue Anforderungen des Kunden ohne Leistungseinbußen zu bewältigen",
+      "Support und Wartung: Bereitstellung eines schnellen und kompetenten technischen Supports sowie regelmäßige Updates und Wartung zur Sicherstellung einer optimalen Leistung der Website.",
+    ],
   },
   {
     title: "Abschluss Review",
@@ -133,7 +138,12 @@ const experiences = [
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Zoom Call wischen 30 - 60 Min",
-    points: ["", "", "", ""],
+    points: [
+      "Projektziele und Ergebnisse vergleichen: Überprüfung, ob die ursprünglichen Projektziele erreicht wurden und wie gut die fertige Webanwendung den Anforderungen entspricht",
+      "Leistungsanalyse: Bewertung der technischen Performance der Webanwendung, einschließlich Ladezeiten, Benutzerfreundlichkeit und Stabilität unter verschiedenen Bedingungen",
+      "Identifizierung von Herausforderungen: Analyse der größten Schwierigkeiten während des Projekts, um Verbesserungspotenziale für zukünftige Projekte zu erkennen.  ",
+      "Feedback-Runde und Dokumentation: Einholen von Feedback vom Team und vom Kunden und Erstellung eines Abschlussberichts, der die wichtigsten Erkenntnisse und Empfehlungen für künftige Projekte festhält.",
+    ],
   },
 ];
 
@@ -184,7 +194,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://sascha-schmittinger.netlify.app",
+    source_code_link: "https://ssc-block.netlify.app",
   },
   {
     name: "IT Landingpage",
@@ -205,7 +215,7 @@ const projects = [
     source_code_link: "https://schmittinger-react-landingpage.netlify.app/",
   },
   {
-    name: "Trip Guide",
+    name: "SSC-Tailwindcss Course",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -223,70 +233,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://ssc-tailwindcourse.netlify.app",
   },
 ];
 

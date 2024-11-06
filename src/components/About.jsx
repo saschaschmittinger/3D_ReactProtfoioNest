@@ -54,8 +54,8 @@ const About = () => {
         Künstliche Intelligenz, personalisiert Inhalte intelligent, indem es
         Persönliche Beratungsgespräche, relevante Produkte und Informationen
         vorschlägt,die auf Nutzerbedürfnisse abgestimmt sind, ähnlich wie beim
-        Telefonat. Das sorgt für einen vollen Terminkalender und mehr Umsatz.
-        UND DAS GARANTIERT!!!
+        Telefonat. Die Einsatzmöglichkeiten sind annähernt Grenzenlos.
+        Schulungen, Lead-Management, Personalrekrotierung
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
